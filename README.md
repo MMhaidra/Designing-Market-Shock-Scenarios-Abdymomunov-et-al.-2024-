@@ -1,4 +1,4 @@
-# Financial Scenario Simulation Framework
+# Designing Market Shock Scenarios Framework
 
 This notebook re-implements (with simplifications) the framework from Abdymomunov et al. (2024) using simulated data.
 
