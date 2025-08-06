@@ -52,9 +52,9 @@ The approach is particularly valuable for stress testing, risk management, and u
    ```
 
 2. Execute the script:
-   ```bash
-   python MarketShockScenarios.py
-   ```
+   
+   Run the notebook MarketShockScenarios.ipynb
+ 
 
 ## Output Interpretation
 
