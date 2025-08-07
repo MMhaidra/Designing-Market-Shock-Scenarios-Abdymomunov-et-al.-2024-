@@ -4,6 +4,8 @@ This notebook re-implements (with simplifications) the framework from Abdymomuno
 
 ## Overview
 
+![Method](Method.png)
+
 This code implements a sophisticated scenario generation methodology that:
 - Models primary financial factors using realistic dynamics (Ornstein-Uhlenbeck processes)
 - Simulates secondary factors using quantile regression techniques
